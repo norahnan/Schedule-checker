@@ -1,0 +1,27 @@
+COMSC-211: Final Project Proposal
+
+Nan Zhuang
+April 3, 2016
+Schedule Check-master
+I plan to create an interactive application where the user can input the schedule and check if it is possible to get to each place on time. The integrated version will include an input of map and bus lines, as well as allow the user to save the schedule when they want to. In order to decide a schedule, students or travelers would need to do multiple things: make a list, draw a chart, find the map, mark the places, calculate the time and cross out or erase on the paper constantly until they have to find another blank paper to cross and draw on. This application will save a lot of time and energy for those people. One only need to input a map document and enter the place, arrival time and duration of the stay. He or she will immediately see a schedule and a route beside it. The place where time is very budgeted (you can decide what time interval you would want to leave between the events) will be shown differently and the user will also be able to change the schedule on the application. Eventually, if you would like to save your final schedule, you can also click the save button.
+My product mainly targets at students and traveler who are trying to fix their schedule. It is often time consuming to write down the schedule and check it several times before you can get it fixed. There are also times when you forget to calculate the interval between two events and you have to rush around or even give up on one event. With this application, every commuting route will be checked according to your preference, all done by less than one second. 
+I require the outside resource of a map consist of coordinates of place and the bus lines. I also need to look online for methods to write into and save a txt file. Finally, I will implement my application with a GUI in Java. 
+The data from the map will be stored in an array list and the input from the user will be stored in a doubly linked list. So it will be easy to search and change an element as well as going back and forth to calculate the time it takes to go to different places. 
+My contributions to the project are:
+Create GUI;
+Choose and implement data structures. 
+
+Milestones:
+W1      Finalize the proposal;
+Create the basic class skeleton;
+Create the graphic user interface;
+W2      Prepare and give the presentation;
+Write the map and the test schedule;
+Fill in the data structure;
+W3      Test and debug;
+Finalize the project;
+Write the report.
+
+
+
+
